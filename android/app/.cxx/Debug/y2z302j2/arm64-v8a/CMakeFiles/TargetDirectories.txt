@@ -1,0 +1,2 @@
+C:/swift2/swift2/android/app/.cxx/Debug/y2z302j2/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/swift2/swift2/android/app/.cxx/Debug/y2z302j2/arm64-v8a/CMakeFiles/rebuild_cache.dir

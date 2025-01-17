@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "123412677445",
+    "project_id": "swift-pool-de70a",
+    "storage_bucket": "swift-pool-de70a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123412677445:android:8557aa35bd5ff67a39b42c",
+        "android_client_info": {
+          "package_name": "com.example.swift_pool"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4VwejT56s2Xs1aC1EdMlABa8ZHrB_UjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123412677445:android:ce1bd68348c0a13939b42c",
+        "android_client_info": {
+          "package_name": "com.example.swiftpool"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4VwejT56s2Xs1aC1EdMlABa8ZHrB_UjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
