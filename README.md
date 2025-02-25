@@ -1,11 +1,11 @@
-# 🚗 EcoRide - AI-Powered Carpooling App
+# 🚗 EcoRide - Community based Carpooling App
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.13-blue?logo=flutter)
 ![Solana](https://img.shields.io/badge/Solana-Blockchain-green?logo=solana)
 ![Dart](https://img.shields.io/badge/Dart-2.19-blue?logo=dart)
 ![License](https://img.shields.io/github/license/shreyashchilip/EcoRide)
 
-EcoRide is a **next-gen AI-powered carpooling app** designed to revolutionize urban mobility. It optimizes ride-sharing routes using AI, rewards eco-friendly commuting via blockchain-integrated eco-points, and gamifies sustainability with EcoScores, leaderboards, and corporate rewards. 🌱🚀
+EcoRide is a **carpooling app** designed to revolutionize urban mobility. IT rewards eco-friendly commuting via blockchain-integrated eco-points, and gamifies sustainability with EcoScores, leaderboards, and corporate rewards. 🌱🚀
 
 ---
 
